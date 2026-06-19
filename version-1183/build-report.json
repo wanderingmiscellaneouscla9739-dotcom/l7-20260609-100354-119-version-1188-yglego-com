@@ -1,0 +1,24 @@
+{
+  "movies": 2000,
+  "html_files": 2016,
+  "movie_pages": 2000,
+  "category_pages": 12,
+  "covered_by_categories": 2000,
+  "baidu_missing": [],
+  "image_files_in_zip": 0,
+  "detail_with_player": 2000,
+  "category_counts": {
+    "国产剧集": 170,
+    "国产电影": 170,
+    "悬疑犯罪": 170,
+    "动作冒险": 170,
+    "科幻奇幻": 170,
+    "恐怖惊悚": 169,
+    "爱情青春": 169,
+    "喜剧家庭": 169,
+    "动画动漫": 138,
+    "纪录传记": 168,
+    "日韩泰剧": 168,
+    "欧美及海外": 169
+  }
+}
